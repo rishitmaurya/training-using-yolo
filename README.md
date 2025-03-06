@@ -45,7 +45,7 @@ Make sure to change the path of the files according to your specific file locati
 
 Example command for YOLOv5:
 ```bash
-    yolo train data=path/to/your/data.yaml model=yolov5s.pt epochs=50 imgsz=640
+    yolo train data=path/to/your/data.yaml model=yolov8n.pt epochs=50 imgsz=640
 ```
 ### Step 5: Test the Model
 
